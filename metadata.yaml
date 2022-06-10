@@ -6,6 +6,9 @@ contributor:
     alias: Polgar, Gyula
     gutenberg_agent_id: '54551'
     url: http://www.gutenberg.org/2009/agents/54551
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Arrhenius, Svante
@@ -18,6 +21,8 @@ creator:
     - https://en.wikipedia.org/wiki/Svante_Arrhenius
     - https://sv.wikipedia.org/wiki/Svante_Arrhenius
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68183#A-vilagegyetem-elete-es-megismeresenek-tortenete-a-legregibb-idotol-napjainkig
 gutenberg_issued: '2022-05-27'
 identifiers:
   gutenberg: '68183'
